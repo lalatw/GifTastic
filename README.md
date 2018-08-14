@@ -6,7 +6,7 @@ https://lalatw.github.io/GifTastic/
 
 
 # Images
-![GifTastic Assignment](assets/images/screenshot.png)
+![GifTastic Assignment](assets/images/Screenshot.png)
 
 # Technology used
 * html
