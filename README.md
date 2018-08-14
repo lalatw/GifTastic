@@ -1,4 +1,4 @@
-# Trivia Game
+# GifTastic
 Assignment_GifTastic
 
 # Link to deployed site
@@ -6,7 +6,7 @@ https://lalatw.github.io/GifTastic/
 
 
 # Images
-![TriviaGame Assignment](assets/images/screenshot.png)
+![GifTastic Assignment](assets/images/screenshot.png)
 
 # Technology used
 * html
